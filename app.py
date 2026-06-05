@@ -1,7 +1,7 @@
 import http.server
 import socketserver
 
-PORT = 8000  # You can change the port number heres
+PORT = 8000  # You can change the port number heress
 
 # this is another change for another CL
 
